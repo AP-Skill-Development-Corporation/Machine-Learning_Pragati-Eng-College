@@ -1,4 +1,4 @@
 # Machine-Learning_Pragati-Eng-College
 
-# Resources
+### Resources
 * Markdown cheat sheet [Link](https://www.markdownguide.org/cheat-sheet/)
